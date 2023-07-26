@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru-ru'
+title = 'Фотомастерская ПрзитивЪ'
+theme = 'pozitiv-foto-theme'
+
