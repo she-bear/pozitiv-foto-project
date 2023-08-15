@@ -1,3 +1,4 @@
 [submodule "themes"]
 	path = themes
 	url = https://github.com/she-bear/pozitiv-foto-themes.git
+	branch = main
