@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'ru-ru'
 title = 'Фотомастерская ПозитивЪ'
 theme = 'pozitiv-foto-theme'
+
+[deployment.targets]
+name = "default"
+URL = "s3://www.pozitiv-foto.ru/?region=ru-central1&endpoint=storage.yandexcloud.net"
+
